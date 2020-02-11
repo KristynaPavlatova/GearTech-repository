@@ -10,3 +10,6 @@ I am making a new Branch called "unicorn"
 So, I made another version of the file in the unicorn branch.
 
 La la la new version just so you can see it in the graph :)
+MAKING ANOTHER BRANCH called "Branch-C"
+
+//OH hi! I am in Branch-C not the master branch
