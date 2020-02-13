@@ -1,4 +1,4 @@
-Hello this is repository test.
+Hello this is repository test...
 VERSION 1
 ************************************* making more versions of the master branch file
 BLA BLA BLA BLA BLA
